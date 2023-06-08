@@ -1,7 +1,6 @@
 import React from 'react'
 import MarketingApp from './components/MarketingApp'
-//testing the github actions: take 5
-//testing 5
+//testing the github actions: take 6
 		
 export default () => {
     
