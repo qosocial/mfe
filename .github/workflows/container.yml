@@ -5,11 +5,11 @@ on:
     branches:
       - main
     paths:
-      - "bigProject/container/**"
+      - "mfe/container/**"
 
 defaults:
   run:
-    working-directory: bigProject/container
+    working-directory: mfe/container
 
 jobs:
   build:
